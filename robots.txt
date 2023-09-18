@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sauravsinha137.github.io/saurav/sitemap.xml
+Sitemap: https://sauravsinha137.github.io/saurav//sitemap.xml
